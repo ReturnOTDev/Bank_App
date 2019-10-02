@@ -28,7 +28,7 @@ h3 {
 // base container
 
 .container {
-	padding: 0 2.7rem;
+	padding: 0 5%;
 	max-width: 500px;
 	margin: 0 auto;
 	background-color: white;
@@ -37,7 +37,7 @@ h3 {
 // nav
 
 nav {
-	padding: 2.7rem 0;
+	padding: 3vh 0;
 }
 
 .top-nav-container {
@@ -56,9 +56,9 @@ nav {
 // card
 
 .card-container {
-	padding-bottom: 5.6rem;
+	margin-bottom: 5vh;
 	img {
-		margin-bottom: 2.6rem;
+		margin-bottom: 3vh;
 		width: 100%;
 	}
 }
@@ -93,12 +93,12 @@ nav {
 
 .transactions-container {
 	text-align: left;
-	margin-bottom: 4.6rem;
+	margin-bottom: 7vh;
 }
 
 h2 {
 	font-size: 0.9rem;
-	margin-bottom: 2rem;
+	margin-bottom: 2vh;
 	opacity: 0.25;
 	letter-spacing: 0.1rem;
 }
@@ -112,7 +112,7 @@ h2 {
 		border-radius: 10px;
 		display: flex;
 		align-items: center;
-		margin-bottom: 2rem;
+		margin-bottom: 2vh;
 		box-shadow: 0rem 0.6rem 1rem rgba(0, 0, 0, 0.1);
 		img {
 			margin-right: 2rem;
@@ -128,9 +128,9 @@ h2 {
 		}
 		h4 {
 			margin-left: auto;
-			font-size: 1.2rem;
+			font-size: 1.3rem;
 			width: 5.5rem;
-			letter-spacing: 0.08rem;
+			letter-spacing: 0.1rem;
 		}
 	}
 }
