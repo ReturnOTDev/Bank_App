@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="200" viewBox="0 0 320 200">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="1.275" y2="0.93" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2473d9"/>
+      <stop offset="1" stop-color="#00f7ff"/>
+    </linearGradient>
+  </defs>
+  <g id="card" transform="translate(-28 -72)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="320" height="200" rx="10" transform="translate(28 72)" fill="url(#linear-gradient)"/>
+    <text id="_9715" data-name="****  ****  ****  9715" transform="translate(48 180)" fill="#fff" font-size="22" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.179em"><tspan x="0" y="0" xml:space="preserve">****  ****  ****  9715</tspan></text>
+    <path id="Icon_simple-visa" data-name="Icon simple-visa" d="M30.911,13.016a8.844,8.844,0,0,0-3.083-.533c-3.4,0-5.8,1.715-5.821,4.173-.021,1.807,1.708,2.824,3.014,3.43,1.341.62,1.79,1.01,1.786,1.568-.009.845-1.072,1.228-2.059,1.228a7.284,7.284,0,0,1-3.244-.664l-.423-.2-.48,2.831a11.514,11.514,0,0,0,3.854.664c3.616,0,5.98-1.7,6.008-4.322.028-1.441-.9-2.534-2.872-3.434-1.194-.585-1.938-.976-1.938-1.57,0-.524.636-1.084,1.965-1.084a6.308,6.308,0,0,1,2.578.484l.319.144L30.994,13l-.083.018Zm8.829-.3H37.082a1.72,1.72,0,0,0-1.809,1.047L30.161,25.34h3.616l.723-1.9,4.412,0c.108.443.425,1.892.425,1.892h3.188L39.74,12.715Zm-22.623-.106h3.443L18.406,25.241H14.962l2.155-12.635ZM8.365,19.571l.358,1.754,3.368-8.61H15.74L10.316,25.322H6.676L3.7,14.645a.705.705,0,0,0-.319-.42A14.549,14.549,0,0,0,0,12.972l.044-.266H5.592a1.442,1.442,0,0,1,1.565,1.07l1.208,5.8Zm27.124,1.288,1.373-3.533c-.018.035.284-.73.457-1.2l.236,1.09.8,3.645H35.489v0Z" transform="translate(283.737 226.517)" fill="#fff"/>
+    <text id="David_Shayne" data-name="David Shayne" transform="translate(48 252)" fill="#fff" font-size="18" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">David Shayne</tspan></text>
+    <text id="Expiry_07_22_End_" data-name="Expiry       07/22
+End
+
+
+" transform="translate(49 203)" fill="#fff" font-size="8" font-family="Montserrat-Light, Montserrat" font-weight="300" letter-spacing="0.116em"><tspan x="0" y="0" xml:space="preserve">Expiry       07/22</tspan><tspan x="0" y="12">End</tspan><tspan x="0" y="24"></tspan><tspan x="0" y="36"></tspan><tspan x="0" y="48"></tspan></text>
+    <text id="INT_Bank" data-name="INT Bank" transform="translate(49 102)" fill="#fff" font-size="12" font-family="Montserrat-Regular, Montserrat" letter-spacing="0.02em"><tspan x="0" y="0">INT Bank</tspan></text>
+  </g>
+</svg>

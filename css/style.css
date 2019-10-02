@@ -1,0 +1,172 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,600&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+ul {
+  list-style-type: none;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 600;
+}
+
+.container {
+  padding: 0 2.7rem;
+  max-width: 400px;
+  margin: 0 auto;
+  background-color: white;
+}
+
+nav {
+  padding: 2.7rem 0;
+}
+
+.top-nav-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.top-nav-container li {
+  font-size: 1.2rem;
+}
+
+.top-nav-container img {
+  opacity: 0.6;
+}
+
+.card-container {
+  padding-bottom: 3.6rem;
+}
+
+.card-container img {
+  margin-bottom: 2.6rem;
+}
+
+.dots {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 1.5rem;
+}
+
+.dot {
+  background-color: black;
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 50%;
+  margin-right: 1rem;
+  opacity: 0.15;
+}
+
+.dot :last-of-type {
+  margin-right: 0;
+}
+
+.dot-active {
+  height: 1.5rem;
+  border-radius: 10px;
+  background-color: #3c9bff;
+  opacity: 0.8;
+}
+
+.transactions-container {
+  text-align: left;
+  margin-bottom: 6.6rem;
+}
+
+h2 {
+  font-size: 0.8rem;
+  margin-bottom: 2rem;
+  opacity: 0.25;
+}
+
+.transactions {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.transactions li {
+  padding: 2rem;
+  border-radius: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 2rem;
+  -webkit-box-shadow: 0rem 0.6rem 1rem rgba(0, 0, 0, 0.1);
+          box-shadow: 0rem 0.6rem 1rem rgba(0, 0, 0, 0.1);
+}
+
+.transactions li img {
+  margin-right: 2rem;
+}
+
+.transactions li h3 {
+  font-size: 1.2rem;
+}
+
+.transactions li p {
+  opacity: 0.4;
+}
+
+.transactions li h4 {
+  margin-left: auto;
+  font-size: 1.2rem;
+  width: 5rem;
+}
+
+.bottom-nav {
+  width: 80%;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.bottom-nav img {
+  opacity: 0.2;
+}
+
+.bottom-nav li:nth-of-type(2) img {
+  opacity: 1;
+}
+/*# sourceMappingURL=style.css.map */
