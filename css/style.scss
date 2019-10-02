@@ -133,6 +133,9 @@ h2 {
 			letter-spacing: 0.1rem;
 		}
 	}
+	li:last-of-type {
+		margin-bottom: 0;
+	}
 }
 
 // footer
