@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.312" x2="0.786" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2473d9"/>
+      <stop offset="1" stop-color="#0dc6f1"/>
+    </linearGradient>
+  </defs>
+  <g id="electricity" transform="translate(0 0.34)">
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="19" cy="19" r="19" transform="translate(0 -0.34)" fill="url(#linear-gradient)"/>
+    <g id="Icons_new_Arranged_Names" data-name="Icons new Arranged Names" transform="translate(64.787 199.342)">
+      <g id="_10_Cloud_Lightning" data-name="10 Cloud Lightning" transform="translate(0 -2)">
+        <path id="Rectangle_1_copy_4" data-name="Rectangle 1 copy 4" d="M17.284,18h8.344L20.86,27.734h6.715L13.947,41.363l2.781-9.734H12Z" transform="translate(-64.788 -206.681)" fill="#fff" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

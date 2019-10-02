@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="53" height="53" viewBox="0 0 53 53">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.226" y1="0.227" x2="0.83" y2="1.245" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2484ff"/>
+      <stop offset="1" stop-color="#00c4ff"/>
+    </linearGradient>
+  </defs>
+  <g id="wallet" transform="translate(-161 -719)">
+    <g id="plus" transform="translate(-0.137 -0.137)">
+      <g id="Group_1" data-name="Group 1" transform="translate(161.376 719.376)">
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="26.5" cy="26.5" r="26.5" transform="translate(-0.239 -0.239)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <path id="cards" d="M23.434,8.879H21.18l-.646-3.658A1.572,1.572,0,0,0,18.723,3.95L2.294,6.848A1.565,1.565,0,0,0,1.026,8.66l1.752,9.934A1.559,1.559,0,0,0,4.59,19.864l.6-.106v.751a1.565,1.565,0,0,0,1.563,1.563H23.434A1.566,1.566,0,0,0,25,20.51V10.442A1.566,1.566,0,0,0,23.434,8.879Zm.064,1.563v1.471H6.694l.058-1.534ZM4.255,18.334,2.786,10.006,2.555,8.324l16.5-2.844.6,3.4H6.752a1.565,1.565,0,0,0-1.563,1.563v7.767Zm19.179,2.239L6.688,20.51V14.568H23.5V20.51A.064.064,0,0,1,23.434,20.573Z" transform="translate(174.998 732.073)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.312" x2="0.786" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2473d9"/>
+      <stop offset="1" stop-color="#0dc6f1"/>
+    </linearGradient>
+  </defs>
+  <g id="data" transform="translate(0 0.34)">
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="19" cy="19" r="19" transform="translate(0 -0.34)" fill="url(#linear-gradient)"/>
+    <g id="iconfinder_icon-wifi_211944" transform="translate(-24 -85.34)">
+      <path id="Path_6" data-name="Path 6" d="M43.079,96h0A15.453,15.453,0,0,0,32.5,100.158l-.5.47.489.485,1.6,1.582.46.455.475-.435a11.887,11.887,0,0,1,16.1,0l.475.435.46-.455,1.6-1.582.489-.485-.5-.47A15.413,15.413,0,0,0,43.079,96Z" transform="translate(0 0)" fill="#fff"/>
+      <path id="Path_7" data-name="Path 7" d="M118.7,204.689A10.379,10.379,0,0,0,111.72,202h-.44l0,.01a10.389,10.389,0,0,0-6.556,2.68l-.519.47.5.494,1.617,1.6.45.445.475-.415a6.708,6.708,0,0,1,8.939,0l.475.415.45-.445,1.617-1.6.5-.494Z" transform="translate(-68.63 -100.759)" fill="#fff"/>
+      <path id="Path_8" data-name="Path 8" d="M186.714,319.328l.475-.47,2.61-2.581.524-.519-.573-.47a4.659,4.659,0,0,0-3.041-.989,5.036,5.036,0,0,0-3.041.989l-.569.47.524.519,2.61,2.581Z" transform="translate(-143.63 -207.507)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
