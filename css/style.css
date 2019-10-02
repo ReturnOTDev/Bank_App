@@ -27,7 +27,7 @@ h3 {
 
 .container {
   padding: 0 2.7rem;
-  max-width: 400px;
+  max-width: 500px;
   margin: 0 auto;
   background-color: white;
 }
@@ -57,11 +57,12 @@ nav {
 }
 
 .card-container {
-  padding-bottom: 3.6rem;
+  padding-bottom: 5.6rem;
 }
 
 .card-container img {
   margin-bottom: 2.6rem;
+  width: 100%;
 }
 
 .dots {
@@ -80,8 +81,8 @@ nav {
 
 .dot {
   background-color: black;
-  width: 0.5rem;
-  height: 0.5rem;
+  width: 0.4rem;
+  height: 0.4rem;
   border-radius: 50%;
   margin-right: 1rem;
   opacity: 0.15;
@@ -92,7 +93,7 @@ nav {
 }
 
 .dot-active {
-  height: 1.5rem;
+  height: 1rem;
   border-radius: 10px;
   background-color: #3c9bff;
   opacity: 0.8;
@@ -100,13 +101,14 @@ nav {
 
 .transactions-container {
   text-align: left;
-  margin-bottom: 6.6rem;
+  margin-bottom: 4.6rem;
 }
 
 h2 {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   margin-bottom: 2rem;
   opacity: 0.25;
+  letter-spacing: 0.1rem;
 }
 
 .transactions {
@@ -125,6 +127,9 @@ h2 {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   margin-bottom: 2rem;
   -webkit-box-shadow: 0rem 0.6rem 1rem rgba(0, 0, 0, 0.1);
           box-shadow: 0rem 0.6rem 1rem rgba(0, 0, 0, 0.1);
@@ -135,17 +140,21 @@ h2 {
 }
 
 .transactions li h3 {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
+  letter-spacing: 0.05rem;
 }
 
 .transactions li p {
   opacity: 0.4;
+  letter-spacing: 0.05rem;
+  margin-top: 0.25rem;
 }
 
 .transactions li h4 {
   margin-left: auto;
   font-size: 1.2rem;
-  width: 5rem;
+  width: 5.5rem;
+  letter-spacing: 0.08rem;
 }
 
 .bottom-nav {
